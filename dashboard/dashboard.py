@@ -4,8 +4,8 @@ import seaborn as sns
 import streamlit as st
 
 #Load Data
-day_df = pd.read_csv("./vira_submission/data/day.csv")
-hour_df = pd.read_csv("./vira_submission/data/hour.csv")
+day_df = pd.read_csv("./vira_submission/dashboard/day.csv")
+hour_df = pd.read_csv("./vira_submission/dashboard/hour.csv")
 
 
 # DataFrame
